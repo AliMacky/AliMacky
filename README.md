@@ -11,7 +11,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,vite,postman,nodejs,mongodb,swift,java,vscode,firebase,ae)](https://skillicons.dev)
 
 <!--
 **AliMacky/AliMacky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
