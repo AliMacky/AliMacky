@@ -2,11 +2,11 @@
 ---
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Seattle.
-- :telescope: I’m a sophomore in highschool.
+- :school: I’m a sophomore in highschool.
 
 - :seedling: Exploring coding through web development, app development, and more!
 
-- :zap: In my free time, I work on personal projects and changes to open source repositories.
+- :zap: In my free time, I work on personal projects and contributions to open source apps.
 
 ---
 
@@ -15,7 +15,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :school: Languages I Plan To Learn :
+### :telescope: Languages I Plan To Learn :
+[![My Skills](https://skillicons.dev/icons?i=js,cs,cpp,rust)](https://skillicons.dev)
 
 <!--
 **AliMacky/AliMacky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
