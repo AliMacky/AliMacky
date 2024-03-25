@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Seattle.
 - :telescope: I’m a sophomore in highschool.
 
@@ -12,6 +12,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :hammer_and_wrench: Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,vite,postman,nodejs,mongodb,swift,java,vscode,firebase,ae)](https://skillicons.dev)
+
+---
+
+### :school: Languages I Plan To Learn :
 
 <!--
 **AliMacky/AliMacky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
