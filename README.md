@@ -18,8 +18,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :telescope: Languages I Plan To Learn :
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,rust)](https://skillicons.dev)
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <!--
 **AliMacky/AliMacky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
